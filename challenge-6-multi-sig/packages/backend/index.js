@@ -42,16 +42,3 @@ app.listen(PORT, () => {
 
 // Export the Express API
 module.exports = app
-
-// if(fs.existsSync('server.key')&&fs.existsSync('server.cert')){
-//   https.createServer({
-//     key: fs.readFileSync('server.key'),
-//     cert: fs.readFileSync('server.cert')
-//   }, app).listen(49832, () => {
-//     console.log('HTTPS Listening: 49832')
-//   })
-// }else{
-//   var server = app.listen(49832, function () {
-//       console.log("HTTP Listening on port:", server.address().port);
-//   });
-// }

@@ -25,7 +25,7 @@ https://ch5-state-channels.vercel.app/
 
 # Challenge MultiSig Wallet: 
 
-https://ch6-multisig-wallet.surge.sh/pool/
+https://ch6-multisig-wallet.surge.sh/
 
 # Challenge Svg NFT: 
 

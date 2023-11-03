@@ -1,29 +1,33 @@
 
-# Challenge 0: 
+# Challenge Simple NFT: 
 
 https://ch0-nft-dapp.vercel.app/
 
-# Challenge 1: 
+# Challenge Decentralized Staking: 
 
 https://ch1-staking-dapp.vercel.app/
 
-# Challenge 2: 
+# Challenge Token Vendor: 
 
 https://ch2-vendor-token.vercel.app/
 
-# Challenge 3: 
+# Challenge Dice Game: 
 
 https://ch3-dice-game.vercel.app/
 
-# Challenge 4: 
+# Challenge Dex: 
 
 https://ch4-dex.vercel.app/
 
-# Challenge 5: 
+# Challenge State Channel: 
 
 https://ch5-state-channels.vercel.app/
 
-# Challenge 7: 
+# Challenge MultiSig Wallet: 
+
+https://ch6-multisig-wallet.surge.sh/pool/
+
+# Challenge Svg NFT: 
 
 https://utter-produce.surge.sh/
 
